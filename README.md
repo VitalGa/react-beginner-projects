@@ -1,1 +1,1 @@
-# Моя коллекция фотографий с Денисом Арчаковым. React.
+# My collection of photographs with Denis Archakov. React.
